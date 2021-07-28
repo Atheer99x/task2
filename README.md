@@ -1,1 +1,1 @@
-# task2
+# In this task, the control interface was designed to move the rule, then we created a database for control, and the database was linked with the control interface, and then php pages were created to connect the database with the rule, and the control panel with the arm was merged with the control panel with the base in a unit interface and converted as a moblie web view
